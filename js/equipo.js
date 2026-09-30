@@ -8,9 +8,9 @@ export const equipo = [
   { nombre: "Baldomero Jiménez García", rol: "Líder de proyecto", github: "Baldom3ro" },
 
   // --- Integrante 1 ---
-
+  { nombre: "Alfredo Castillo Gerónimo", rol: "Integrante 1", github: "calavanda" },
   // --- Integrante 2 ---
-
+  
   // --- Integrante 3 ---
 
   // --- Integrante 4 ---
