@@ -10,7 +10,7 @@ export const equipo = [
   // --- Integrante 1 ---
 
   // --- Integrante 2 ---
-
+  { nombre: "José David Atzin Pérez", rol: "Desarrollador", github: "dxvxd-ap" },
   // --- Integrante 3 ---
 
   // --- Integrante 4 ---
