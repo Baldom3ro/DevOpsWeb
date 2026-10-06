@@ -8,7 +8,7 @@ export const equipo = [
   { nombre: "Baldomero Jiménez García", rol: "Líder de proyecto", github: "Baldom3ro" },
 
   // --- Integrante 1 ---
-  { nombre: "Alfredo Castillo Gerónimo", rol: "Integrante 1", github: "calavanda" },
+  { nombre: "Alfredo Castillo Gerónimo", rol: "Programador Front-End", github: "calavanda" },
   // --- Integrante 2 ---
   { nombre: "José David Atzin Pérez", rol: "Integrante 2", github: "dxvxd-ap" }
   // --- Integrante 3 ---
