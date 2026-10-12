@@ -10,8 +10,8 @@ export const equipo = [
   // --- Integrante 1 ---
   { nombre: "Alfredo Castillo Gerónimo", rol: "Programador Full-Stack", github: "calavanda" },
   // --- Integrante 2 ---
-  { nombre: "José David Atzin Pérez", rol: "Integrante 2", github: "dxvxd-ap" }
+  { nombre: "José David Atzin Pérez", rol: "Integrante 2", github: "dxvxd-ap" },
   // --- Integrante 3 ---
-
+  { nombre: "Prueba Rota", rol: "QA", github: "dxvxd ap" }
   // --- Integrante 4 ---
 ];
