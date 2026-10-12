@@ -12,6 +12,6 @@ export const equipo = [
   // --- Integrante 2 ---
   { nombre: "José David Atzin Pérez", rol: "Integrante 2", github: "dxvxd-ap" },
   // --- Integrante 3 ---
-  { nombre: "Prueba Rota", rol: "QA", github: "dxvxd ap" }
+  { nombre: "Prueba Rota", rol: "QA", github: "usuario-valido" }
   // --- Integrante 4 ---
 ];
